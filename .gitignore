@@ -31,4 +31,4 @@ build/
 .vscode/
 
 /deployment/cloudformation/compiled-template.json
-.mvn
+.mvn/wrapper/maven-wrapper.jar
